@@ -1,0 +1,8 @@
+maximum:
+  name: 200
+  description: 200
+  email: 100
+  phone: 11
+  address: 200
+miximum:
+  password: 6
